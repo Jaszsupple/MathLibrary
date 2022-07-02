@@ -6,6 +6,7 @@ public class Power {
 	
 		Scanner userinput = new Scanner(System.in);
 		
+		//User inputs
 		System.out.println("Pleae input first number");
 		Double InputA = userinput.nextDouble();
 		
